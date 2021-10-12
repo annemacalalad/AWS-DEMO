@@ -1,2 +1,2 @@
 @Library('sharedLib') _
-scriptStages()
+cf_Deploy()
