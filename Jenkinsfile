@@ -1,2 +1,2 @@
-@Library('sharedLibraryAWS') _
+@Library('sharedLib') _
 scriptStages()
